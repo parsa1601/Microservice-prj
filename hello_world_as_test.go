@@ -1,5 +1,3 @@
-package Microservice_prj
-
 // First Go program
 package main
 
